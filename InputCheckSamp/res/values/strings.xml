@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InputCheckSamp</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_details_of_selected_item">DetailsOfSelectedItemActivity</string>
+    <string name="regist_info_label">登録情報</string>
+    <string name="regist_no_label">登録番号</string>
+    <string name="regist_name_label">名前</string>
+    <string name="delete_button">削除する</string>
+
+</resources>
