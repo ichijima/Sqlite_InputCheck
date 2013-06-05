@@ -6,7 +6,7 @@
 
     <EditText
         android:id="@+id/nameEdit"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/registButton"
         android:layout_centerHorizontal="true"
@@ -19,7 +19,7 @@
 
     <Button
         android:id="@+id/showListButton"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/registButton"
         android:layout_below="@+id/registButton"
@@ -28,7 +28,7 @@
 
     <Button
         android:id="@+id/registButton"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/nameEdit"
         android:layout_centerVertical="true"
